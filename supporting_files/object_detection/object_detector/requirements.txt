@@ -1,0 +1,12 @@
+numpy~=1.16.5
+matplotlib~=3.1.1
+imageio~=2.6.1
+tensorflow~=1.14.0
+tensorflow-gpu~=1.14.0
+opencv-python~=4.2.0.32
+scikit-learn~=0.21.3
+h5py~=2.8.0
+pillow~=6.2.0
+tqdm~=4.36.1
+bs4~=0.0.1
+beautifulsoup4~=4.8.1

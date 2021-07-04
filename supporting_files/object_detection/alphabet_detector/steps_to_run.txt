@@ -1,0 +1,5 @@
+Steps to draw predicted bounding boxes on a given input image
+
+1. select an image with resolution 1280x720
+2. call the function "make_predictions" inside "inference.py" with the path of the image
+3. you should see the image plot with predicted bounding boxes in red
