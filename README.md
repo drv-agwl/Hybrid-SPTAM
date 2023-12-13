@@ -1,5 +1,7 @@
 #STEPS to RUN
 
+Checkout our paper at: https://ieeexplore.ieee.org/document/9837164
+
 ## Essential steps before running
 1. Create a sample of images whose ground-truth poses and ground-truth corners of the semantics present in them are available
 2. Place the ground-truth poses inside the SPTAM folder. You can find a sample file present in the SPTAM folder
